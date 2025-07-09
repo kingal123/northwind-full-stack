@@ -4,7 +4,7 @@ export default function Home({}: Route.ComponentProps) {
   return (
     <>
       <div className="card-content">
-        <p className="text-2xl">Welcome to Northwind Traders</p>
+        <p className="text-2xl">Welcome to Littleton Birthday Book Programme</p>
         <div className="pt-2">
           <p className="text-gray-400 text-lg">Running on Cloudflare's D1</p>
         </div>
