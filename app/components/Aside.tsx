@@ -6,8 +6,7 @@ const Aside = () => {
       <aside className="aside is-placed-left is-expanded">
         <div className="aside-tools">
           <div>
-            <b className="font-black">Northwind</b> Traders
-          </div>
+            <b className="font-black">Littleton</b> Birthday Books</div>
         </div>
         <div className="menu is-menu-main">
           <p className="menu-label">General</p>
