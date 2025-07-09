@@ -29,7 +29,7 @@ const Aside = () => {
               </NavLink>
             </li>
           </ul>
-          <p className="menu-label">Backoffice</p>
+          <p className="menu-label">Orders</p>
           <ul className="menu-list">
             <li>
               <NavLink
