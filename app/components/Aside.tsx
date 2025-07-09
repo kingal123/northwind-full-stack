@@ -48,7 +48,7 @@ const Aside = () => {
                 <span className="icon material-icons">
                   production_quantity_limits
                 </span>
-                <span className="menu-item-label">Products</span>
+                <span className="menu-item-label">Books</span>
               </NavLink>
             </li>
             <li>
@@ -75,7 +75,7 @@ const Aside = () => {
                 className={({ isActive }) => (isActive ? "active" : "")}
               >
                 <span className="icon material-icons">group</span>
-                <span className="menu-item-label">Customers</span>
+                <span className="menu-item-label">Admin</span>
               </NavLink>
             </li>
             <li>
