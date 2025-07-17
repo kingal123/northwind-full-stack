@@ -37,7 +37,7 @@ const Aside = () => {
                 className={({ isActive }) => (isActive ? "active" : "")}
               >
                 <span className="icon material-icons">inventory</span>
-                <span className="menu-item-label">Suppliers</span>
+                <span className="menu-item-label">Orders</span>
               </NavLink>
             </li>
             <li>
